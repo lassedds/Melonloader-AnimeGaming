@@ -4,7 +4,7 @@
 <a href="https://github.com/Grasscutters/GrassClipper">Grassclipper</a>
 
 MelonLoader
-https://anonfiles.com/P0o9defby2/MelonLoader_rar
+<a href="https://anonfiles.com/P0o9defby2/MelonLoader_rar">MelonLoader</a>
 
 ### Installation
 1) Download the Melonloader files found here on this page.
