@@ -3,7 +3,6 @@
 ## Requirements
 <a href="https://github.com/Grasscutters/GrassClipper">Grassclipper</a>
 
-MelonLoader
 <a href="https://anonfiles.com/P0o9defby2/MelonLoader_rar">MelonLoader</a>
 
 ### Installation
