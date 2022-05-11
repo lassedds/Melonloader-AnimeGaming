@@ -22,4 +22,4 @@
 
 8) You should now be able to start the game through Grassclipper.
 
-If you run into any problems, add Lantic#6747 or Max#2014 on Discord and we will try to get back to you as soon as possible.
+If you run into any problems, add Lantic#6747 or Codecat#2014 on Discord and we will try to get back to you as soon as possible.
