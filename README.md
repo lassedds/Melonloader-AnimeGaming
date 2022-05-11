@@ -5,6 +5,9 @@
 
 <a href="https://anonfiles.com/P0o9defby2/MelonLoader_rar">MelonLoader</a>
 
+For MelonLoader to work, you must be an administrator in Windows, otherwise it will not work!
+To verify this, simply press the Windows key and type CMD. This will bring up a program called Command Prompt, or the equivalent in your language, and you should see an option on the side called "Run as administrator".
+
 ### Installation
 1) Download the Melonloader files found <a href="https://anonfiles.com/P0o9defby2/MelonLoader_rar">here</a> on this page.
 
