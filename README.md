@@ -1,5 +1,10 @@
 # Quick setup guide
 
+# Disclaimer
+In short: You will probably get banned when using this.
+
+This program injects code into the running game. More than that, the game has kernel access to your pc while running so if the developer wanted to, in a future update they could easily detect this software and ban you for using it.
+
 ## Requirements
 <a href="https://github.com/Grasscutters/GrassClipper">Grassclipper</a>
 
@@ -11,17 +16,17 @@ To verify this, simply press the Windows key and type CMD. This will bring up a 
 ### Installation
 1) Download the Melonloader files found <a href="https://anonfiles.com/P0o9defby2/MelonLoader_rar">here</a> on this page.
 
-2) Extract the files and put them in the root directory of Genshin Impact (This is where "*GenshinImpact.exe*" is located, **NOT** "**launcher.exe**".)
+2) Extract the files and put them in the root directory of Genshin Impact (This is where `GenshinImpact.exe` is located, **NOT** "**launcher.exe**".)
 
 3) **DO NOT RUN THE GAME YET** | Or else Melonloader will delete itself.
 
-4) Locate the GrassClipper folder (assuming you are using Grasscutter and opening the game with GrassClipper). In this folder there is another folder called "*scripts*" where you will see many "**.cmd**" files, of which you want to find the one called "*private_server_launch.cmd*".
+4) Locate the GrassClipper folder (assuming you are using Grasscutter and opening the game with GrassClipper). In this folder there is another folder called `scripts` where you will see many "**.cmd**" files, of which you want to find the one called "*private_server_launch.cmd*".
 
 5) Now right-click it and open it with Notepad or any other note-taking program you use.
 
-6) There you will see a lot of stuff that you don't need to care about. You have to find a line saying this: "*:: Launch game "%GAME_PATH%"*"
+6) There you will see a lot of stuff that you don't need to care about. You have to find a line saying this: `:: Launch game "%GAME_PATH%"`
 
-7) Now add  "*--melonloader.agfoffline*" to the second line so it looks like this: "*"%GAME_PATH%" --melonloader.agfoffline*"
+7) Now add  `--melonloader.agfoffline` to the second line so it looks like this: `%GAME_PATH%" --melonloader.agfoffline`
 
 8) You should now be able to start the game through Grassclipper.
 
