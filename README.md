@@ -1,7 +1,7 @@
 # Quick setup guide
 
 # Disclaimer
-In short: You will probably get banned when using this.
+**TLDR**: You will probably get banned when using this.
 
 This program injects code into the running game. More than that, the game has kernel access to your pc while running so if the developer wanted to, in a future update they could easily detect this software and ban you for using it.
 
