@@ -29,7 +29,7 @@ To verify this, simply press the Windows key and type CMD. This will bring up a 
 
 7) Now add  `--melonloader.agfoffline` to the second line so it looks like this:
 
-7.5)  `%GAME_PATH%" --melonloader.agfoffline`
+    7.5)  `%GAME_PATH%" --melonloader.agfoffline`
 
 8) You should now be able to start the game through Grassclipper.
 
