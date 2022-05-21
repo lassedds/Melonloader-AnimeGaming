@@ -25,7 +25,7 @@ To verify this, simply press the Windows key and type CMD. This will bring up a 
 
 5) Now right-click it and open it with Notepad or any other note-taking program you use.
 
-6) There you will see a lot of stuff that you don't need to care about. You have to find a line saying this: <nobr>`:: Launch game "%GAME_PATH%"`</nobr>
+6) There you will see a lot of stuff that you don't need to care about. You have to find a line saying this: `"%GAME_PATH%"`
 
 7) Now add  `--melonloader.agfoffline` to the second line so it looks like this:
 8) `%GAME_PATH%" --melonloader.agfoffline`
