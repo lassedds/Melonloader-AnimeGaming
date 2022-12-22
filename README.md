@@ -29,7 +29,7 @@ Also, if you aren't using an "Administrator Account", how'd you even play _the a
    > `.\GenshinImpact.exe --melonloader.agfoffline`  
 5. Save and close the editor.
 6. **ALWAYS** launch the game by Double-Clicking the `start.bat` file.
-7. Once again, if you launch the game using the `GenshinImpact.exe` executable or by any other means while using **Method #1**, Or else Melonloader will delete itself.
+7. Once again, if you launch the game using the `GenshinImpact.exe` executable or by any other means while using **Method #1**, Melonloader __WILL__ delete itself.
 
 ### Method #2 (using GrassClipper)<sup>_[optional]_</sup>
 
