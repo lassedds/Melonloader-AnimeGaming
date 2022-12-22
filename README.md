@@ -21,7 +21,7 @@ Also, if you aren't using an "Administrator Account", how'd you even play _the a
 
 ### Method #1 (without GrassClipper)
 
-1. Extract the files and put them in the root directory of Genshin Impact (This is where `GenshinImpact.exe` is located, **NOT** "**launcher.exe**".)
+1. Extract the files and put them in the root directory of Genshin Impact (This is where `GenshinImpact.exe` is located, **NOT** `launcher.exe`.)
 
 2. **DO NOT RUN THE GAME YET** | Or else Melonloader will delete itself.
 3. In the above mentioned root directory, create a new file named `start.bat`.
@@ -42,4 +42,5 @@ Also, if you aren't using an "Administrator Account", how'd you even play _the a
    > `%GAME_PATH%" --melonloader.agfoffline`  
 6. You should now be able to start the game through Grassclipper.
 
-<br>_If you run into any problems, add Lantic#6747 or Codecat#2014 on Discord and we will try to get back to you as soon as possible._
+> *Always remember to use MelonLoader __ONLY__ on Private servers and __NOT__ the Official servers.*  
+> *If you run into any problems, add `Lantic#6747` or `Codecat#2014` on Discord and we will try to get back to you as soon as possible.*
